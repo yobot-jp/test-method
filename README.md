@@ -6,13 +6,17 @@
 
 # テスト前の準備について
 
-- まず、テスト対象商品のディレクトリをきる。　 ex: mkdir tape
+- まず、テスト対象商品のディレクトリをきる。
+
+`ex: mkdir tape`
 
 - 次に、package.json を作成し、バージョンを 0.0.1 とする。
 
+`npm init`
+
 - 最後に、その配下で、実験前、実験中、実験後の内容を記載する 3 つのファイルを作る
 
-touch pre-test.md test.md post-test.md
+`touch pre-test.md test.md post-test.md`
 
 # ブランチルール
 
