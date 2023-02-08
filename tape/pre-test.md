@@ -12,6 +12,8 @@
 
 ![](2023-02-08-16-59-47.png)
 
+粘着力は貼る相手（被着体）によって大きく変わる。金属板と樹脂板、平滑面と粗面（木材など）では大きく数値が異なります。
+
 - テープを綺麗に剥がすテクニック
 
 https://www.nitto.com/jp/ja/tapemuseum/science/abrasion01.html
@@ -42,6 +44,19 @@ https://www.nitto.com/jp/ja/tapemuseum/special/vol26/
 
 https://jis.eomec.com/jisz02372022
 
+- 粘着力の試験方法
+
+- 保持力の試験方法
+
+  - 1000g の試験用のおもりを用いる
+  - テープは、幅 8-25mm、長さ 150mm を用意する
+  - テープを 8-25mm の長さ分、試験板の上に置く
+  - テープの上から、ローラで２往復、10mm/s の速さで圧着させる
+  - 圧着後 1 分以内に、垂直に垂れ下がるようにし、テープ下端 40-60mm を折る
+  - 折り重ねたテープに、おもりをつける
+  - おもりをつけて、テープが試験いたから完全に剥がれ落ちるまでの経過時間を測定
+  - 落下しない場合は、所定時間後のずれた距離を測る
+
 <br/>
 
 ### ニトムズの試験方法
@@ -70,13 +85,13 @@ https://www.youtube.com/watch?v=ggQsc4GILWs
 
 https://techtimes.dexerials.jp/bonding/test-for-functional-tape/
 
-- 保持力試験は、お守り 1kg
-
--
+- 保持力試験は、おもり 1kg
 
 ・市販で定量的に測定でき、再現性が担保される方法は何か？
 
 https://www.tsukuba.ac.jp/community/students-kagakunome/shyo_list/2007/chu_8.pdf
+
+JIS 規格のように、90 度、180 度でやると、どちらのテープも剥がれやすく、重さの微妙な調整が必要になり、安定した結果が出なかった。0 度は、テープが強力すぎた。そこで 45 度で実験を行っている。
 
 ・どんな項目を使って、評価したら良いか？
 
