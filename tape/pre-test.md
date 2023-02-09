@@ -75,6 +75,8 @@ https://www.nitto.com/jp/ja/products/double/041/
 
 https://www.youtube.com/watch?v=wmdCKWQ2L6g
 
+https://www.pmda.go.jp/files/000164569.pdf
+
 - 保持力の試験方法
 
 ![](2023-02-08-16-15-49.png)
@@ -93,7 +95,21 @@ https://www.tsukuba.ac.jp/community/students-kagakunome/shyo_list/2007/chu_8.pdf
 
 JIS 規格のように、90 度、180 度でやると、どちらのテープも剥がれやすく、重さの微妙な調整が必要になり、安定した結果が出なかった。0 度は、テープが強力すぎた。そこで 45 度で実験を行っている。
 
+https://my-best.com/16374
+
+![](2023-02-09-16-37-04.png)
+
 ・どんな項目を使って、評価したら良いか？
+
+- 粘着力
+
+- 保持力
+
+- 耐水性
+
+- 耐熱性
+
+- 耐寒性
 
 ・5 段階で評価した時に、どんな基準を作るか？
 
